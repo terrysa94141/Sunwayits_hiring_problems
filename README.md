@@ -1,2 +1,2 @@
 # Sunwayits_hiring_problems
-For Sunwayits hiring problem 
+For Sunwayits hiring problems 
